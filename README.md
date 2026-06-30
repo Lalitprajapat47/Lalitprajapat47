@@ -51,7 +51,7 @@
 
 ## 🔥 Top Projects
 
-### 🔹 [CareerPilot AI](https://github.com/Lalitprajapat47/careerpilot-ai)
+### 🔹 [Prep Ai](https://github.com/Lalitprajapat47/careerpilot-ai)
 
 📌 **MERN Stack, Gemini API, AI**
 
