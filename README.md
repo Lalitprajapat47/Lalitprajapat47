@@ -39,8 +39,9 @@
 ## 🚀 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalitprajapat47&show_icons=true&theme=tokyonight" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalitprajapat47&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalitprajapat47&theme=tokyonight" height="150">
@@ -75,17 +76,6 @@
 
 ---
 
-### 🔹 [TeamFlow](https://github.com/Lalitprajapat47/TeamFlow)
-
-📌 **MERN Stack, Git, GitHub**
-
-🔹 Interactive platform for learning real-world Git workflows and team collaboration.
-
-🔹 Covers branching, pull requests, merge conflicts and collaborative development.
-
-🔹 Designed to help beginners understand professional software development practices.
-
----
 
 ## 🌍 **Social & Community Engagement**
 💡 I actively contribute to **open-source projects** and **tech communities**:  
